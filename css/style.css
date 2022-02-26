@@ -409,6 +409,8 @@ Headers:		'Poppins', sans-serif;
 #hero .container, #hero .row {
     height: 100%;
 }
+
+
 #hero .hero__caption {
     background-color: #000000;
     box-shadow: 0 .1rem 2rem rgba(0,0,0,.15);
