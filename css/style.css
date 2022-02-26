@@ -92,12 +92,12 @@ Headers:		'Poppins', sans-serif;
 .app {
     padding: 1rem 2rem;
     position: relative;
-    justify-content: left;
+    justify-content: center;
 }
 
 }
 .app p {
-    font-size: 1.5rem;
+    font-size: 2rem;
     line-height: 2rem;
     margin-bottom: 1rem;
     opacity: .5;
