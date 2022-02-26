@@ -44,6 +44,14 @@ Headers:		'Poppins', sans-serif;
 .big-number h5 {
     font-size: 2rem;
     font-weight: 600;
+
+}
+
+.block_wrapper {
+    background-color: yellow;
+    overflow-x: auto;
+}
+
 }
 .block {
     padding-top: 10rem;
