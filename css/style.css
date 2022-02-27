@@ -52,11 +52,6 @@ Headers:		'Poppins', sans-serif;
     overflow-x: auto;
 }
 
-.elerhetoseg {
-    display: flex;
-    justify-content: space-between;
-
-}
 .block {
     padding-top: 10rem;
     padding-bottom: 4rem;
